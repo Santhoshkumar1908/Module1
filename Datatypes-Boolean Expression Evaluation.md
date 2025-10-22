@@ -16,6 +16,16 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 Add Code here
+def result(a, b):
+    modulo_value = a % b
+    return modulo_value
+
+a=int(input())
+b=int(input())
+print("modulo is", result(a, b))
 
 ## Output
+<img width="845" height="443" alt="Screenshot 2025-10-22 152534" src="https://github.com/user-attachments/assets/cd40845a-6d06-4768-92c2-89c09d1f4514" />
+
 ## Result
+Thus the program runs successfully
